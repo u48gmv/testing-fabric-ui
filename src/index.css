@@ -1,0 +1,15 @@
+
+.ms-bgColor-themePrimary,
+.ms-bgColor-themePrimary--hover:hover {
+  background-color: #09b309;
+}
+
+.ms-borderColor-themePrimary,
+.ms-borderColor-themePrimary--hover:hover {
+  border-color: #09b309;
+}
+
+.ms-fontColor-themePrimary,
+.ms-fontColor-themePrimary--hover:hover {
+  color: #09b309;
+}
